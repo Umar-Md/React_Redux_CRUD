@@ -16,3 +16,11 @@ bootstrap
 HTML
 CSS
 javascript
+
+use command **npm run dev** to run the server
+
+**Features**
+- Add new items
+- View a list of items
+- Update existing items
+- Delete items
